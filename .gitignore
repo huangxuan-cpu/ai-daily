@@ -2,7 +2,3 @@ node_modules/
 .DS_Store
 work/
 archive/
-obsidian/
-
-# Obsidian 的本地工作区状态（笔记本身要进版本库）
-obsidian/.obsidian/

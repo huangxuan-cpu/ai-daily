@@ -22,6 +22,6 @@
 
 - 日常只更新 `data.json`。
 - 主题只改 `theme.json`。
-- `obsidian/` 与 `archive/` 是脚本生成物，不要手改；笔记末尾「我的笔记」一节除外。
+- iCloud 的 `AI日报` 库笔记与 `archive/` 是脚本生成物，不要手改；笔记末尾「我的笔记」一节除外。
 - 前端位于 `public/`，服务入口是 `server.js`。
 - GitHub Pages 由 `.github/workflows/pages.yml` 自动构建；日常不要手动复制静态文件。
