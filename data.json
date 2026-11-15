@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-14",
+  "note": "本版已迁移至 DeepSeek Harness；内容选题保留爆款表达，事实以原始来源为准。",
+  "items": [
+    {
+      "id": 1,
+      "title": "马斯克一夜蒸发 5315 亿：为什么和 AI 绑得最紧的人，摔得最狠？",
+      "brief": "11 月 5 日美股科技股史诗级大跌：马斯克单日身家缩水 797 亿美元（约 5315 亿人民币），黄仁勋单日亏掉千亿、跌出全球富豪前十。",
+      "summary": "导火索是国会变天后 AI 监管收紧的预期，加上英伟达在中国数据中心芯片份额一年内从 55% 跌到 34%（华为昇腾追到 28%），以及马斯克与特朗普公开决裂、总部所在的德州暂停数据中心审批。全球 500 位顶级富豪当天合计蒸发 1850 亿美元。选题角度：首富的财富也只是纸面数字，AI 赛道涨得猛、摔得也狠——顺带把“AI 财富跟政治的关系”讲清楚，普通人听得懂也爱听。",
+      "category": "大佬动向",
+      "priority": "lead",
+      "sourceName": "腾讯新闻",
+      "sourceUrl": "https://news.qq.com/rain/a/20261109A09OIW00"
+    },
+    {
+      "id": 2,
+      "title": "钢铁侠铠甲真的来了：贴上 10 克“肌肉织物”，普通人举起 15 公斤",
+      "brief": "韩国机械研究院 spin-off 公司发布可商用外骨骼 Bionic Suit：形状记忆合金织进布料，通电就收缩发力，10 克织物能举 10-15 公斤，全身版不到 1.8 公斤，搬运时腰部肌肉负荷直降 40%。",
+      "summary": "最狠的是它没有电机没有金属骨架，就是一件“衣服”——下一步计划从工地走进护理、康复甚至国防。选题角度：标题就叫“钢铁侠终于不是梦了”，再诚实补一句“它还不能飞”，惊叹+反转，评论区自己会吵起来。",
+      "category": "黑科技",
+      "priority": "important",
+      "sourceName": "Korea.net",
+      "sourceUrl": "https://www.korea.net/NewsFocus/Sci-Tech/view?articleId=302558"
+    },
+    {
+      "id": 3,
+      "title": "把逝者的记忆“上传”给 AI：800 亿美元的新生意，微软握着专利却不敢上线",
+      "brief": "用 AI 复活逝者做“数字分身”已成产业：调研估算“数字遗产”市场 2034 年将达 800 亿美元；哈佛专门开会讨论——美国法庭已出现全球首例 AI 生成的“受害者陈述”，微软 2021 年就拿到“模拟真人聊天机器人”专利，却因伦理不安至今未部署。",
+      "summary": "剑桥学者的三个思想实验个个像黑镜剧本：免费试用到期后“复活”的奶奶开始给你推广告；绝症妈妈提前录好分身陪儿子长大；老人付费定制自己的“数字幽灵”。选题角度：“记忆上传就能永生吗”——惊叹之后抛出“逝者本人同意了吗”的问题，情绪和深度都有了。",
+      "category": "未来争议",
+      "priority": "important",
+      "sourceName": "哈佛大学官网",
+      "sourceUrl": "https://current.fas.harvard.edu/stories/digital-resurrection-leaves-legal-moral-questions-living"
+    },
+    {
+      "id": 4,
+      "title": "中国版“钢铁侠战甲”拿下省科技一等奖：不能飞，但能帮瘫痪的人重新站起来",
+      "brief": "电子科技大学牵头的外骨骼机器人获四川省科技进步一等奖：靠脑电、肌电信号“读懂”人的运动意图，从“人适应机器”变成“机器适应人”。",
+      "summary": "",
+      "category": "黑科技",
+      "priority": "normal",
+      "sourceName": "四川科技",
+      "sourceUrl": "https://weibo.com/2/detail/5361254001542013"
+    },
+    {
+      "id": 5,
+      "title": "4000 元、96 集、6000 万热度：40 岁设计师辞职“手搓”AI 漫剧爆了",
+      "brief": "四川 3D 设计师白非空辞职自学 AI 做漫剧，一部《重生螳螂》拿下红果短剧 6042 万热度、登上微博热搜第一，总成本约 4000 元。他的原话：“工具用好了，一个人就是一个短剧工作室。”",
+      "summary": "",
+      "category": "逆袭案例",
+      "priority": "normal",
+      "sourceName": "澎湃新闻",
+      "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_34476494"
+    },
+    {
+      "id": 6,
+      "title": "中专生用 AI 拍《哈利·波特》二创：海外千万播放，好莱坞制片人追着点赞",
+      "brief": "创作者 foyege 用 AI 改编 HP 角色,二创短剧在海外狂揽播放,欧美歌手和好莱坞制片人追到评论区,多国网友自发录制 Reaction 跨国催更。",
+      "summary": "",
+      "category": "逆袭案例",
+      "priority": "normal",
+      "sourceName": "36氪出海（转载量子位）",
+      "sourceUrl": "https://eu.36kr.com/en/p/4068913769256064"
+    },
+    {
+      "id": 7,
+      "title": "AI 时代孩子到底该学什么？专家：学历社会正在转向能力社会",
+      "brief": "最新调研显示过半受访者认为 AI 带来积极影响；专家提醒：不存在永久稳妥的专业，盲目追捧热门理工科反而是“热门陷阱”，唯一能依靠的是终身学习能力。",
+      "summary": "",
+      "category": "教育焦虑",
+      "priority": "normal",
+      "sourceName": "华商网",
+      "sourceUrl": "https://news.hsw.cn/system/2026/1113/1973932.shtml"
+    },
+    {
+      "id": 8,
+      "title": "AI 来了，学历就废了吗？正在贬值的是背答案，正在升值的是判断力",
+      "brief": "一线观点：学历从“决定性硬通货”变成“入场券+加分项”；AI 能接住的是标准答案，接不住的是判断力、执行力和人情世故。",
+      "summary": "",
+      "category": "教育焦虑",
+      "priority": "normal",
+      "sourceName": "搜狐教育",
+      "sourceUrl": "https://learning.sohu.com/a/1100575329_123044973"
+    },
+    {
+      "id": 9,
+      "title": "AI 换脸还能不能玩？网信部门出手：清理仿冒公众人物信息 4.7 万条",
+      "brief": "用数字人、声音克隆做内容注意合规红线：仿冒名人脸和声音已成监管重点。这期自带流量：把“怎么合规地玩 AI 换脸”讲清楚。",
+      "summary": "",
+      "category": "监管红线",
+      "priority": "normal",
+      "sourceName": "当日AI",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzY5OTQ3Mzc2MQ==&mid=2247483854&idx=1&sn=8a0117bc6dce5996f5bab84a72662300&chksm=f5788ece6ad103c948c560dcad715014c698153f351d15e299a5a78daac41a39e4c7c367f1b9#rd"
+    },
+    {
+      "id": 10,
+      "title": "谷歌智能眼镜开放预订：41 克、9 小时续航，科幻里的同声传译挂在了耳边",
+      "brief": "与眼镜品牌联合设计，12MP 超广角摄像头，喊一声 Hey Gemini 就能唤醒，支持 70 多种语言实时翻译，12 月 10 日美国和韩国率先开售。",
+      "summary": "",
+      "category": "黑科技",
+      "priority": "normal",
+      "sourceName": "控场 AI",
+      "sourceUrl": "https://kongchang.com/en/articles/gemini-4-hydrogen-released-cheaper-faster-ai-daily-roundup"
+    },
+    {
+      "id": 11,
+      "title": "李飞飞世界模型向所有人开放：一句话，生成一个能走进去的 3D 世界",
+      "brief": "一张图或一句话就能布机位、渲染成片，还能导出 Blender 和游戏引擎继续加工，新用户送 1 万积分。“AI 版盗梦空间”素材库，实测选题可以直接安排。",
+      "summary": "",
+      "category": "黑科技",
+      "priority": "normal",
+      "sourceName": "凤凰网科技",
+      "sourceUrl": "https://tech.ifeng.com/c/8y1UhlEJa68"
+    }
+  ]
+}

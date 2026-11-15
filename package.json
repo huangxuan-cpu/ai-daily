@@ -1,0 +1,16 @@
+{
+  "name": "ai-daily-lite",
+  "version": "1.0.0",
+  "description": "AI 日报 - 一个轻量的本地报纸风格日报网页",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "check": "node scripts/validate-data.mjs",
+    "check:sources": "node scripts/check-sources.mjs",
+    "export:obsidian": "node scripts/export-obsidian.mjs",
+    "publish": "node scripts/publish.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
